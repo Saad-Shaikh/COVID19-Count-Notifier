@@ -1,4 +1,4 @@
-# COVID19 Count Notifier
+# DailyCOVID19Count
 A script that fetches the latest Covid counts for the requested *Indian* cities and mails it to the people in the mail list.  
 Data is fetched using [COVID19-India API](https://api.covid19india.org/).
 
